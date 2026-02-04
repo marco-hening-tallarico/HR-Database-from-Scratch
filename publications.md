@@ -4,6 +4,8 @@ These are all my publications in chronological order. There are articles on pric
 
 ## List of publications (chronological)
 
+###references
+
 1. Tallarico, M. H. (2025, December 24). [Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction: The time α = 10⁻⁹⁹ was too big: Superheavy elements and deceit](https://towardsdatascience.com/the-time-10-99-was-too-big-superheavy-elements-and-deceit/). Towards Data Science.  
    Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCZbo_kAAAAJ&citation_for_view=uCZbo_kAAAAJ:W7OEmFMy1HYC
 
